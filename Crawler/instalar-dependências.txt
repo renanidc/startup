@@ -1,0 +1,7 @@
+**************Dependências******************
+
+sudo apt-get install npm
+
+npm install selenium
+
+download do phantomJS (http://phantomjs.org/download.html)
