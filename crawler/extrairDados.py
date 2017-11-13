@@ -25,7 +25,7 @@ arquivo.writerow(['produto', 'categoria', 'usuario', 'data_comentario',
 links = open ('buscape/buscape-links.txt', 'r')
 
 #Defina webdriver
-driver = webdriver.Firefox()
+driver = webdriver.PhantomJS(executable_path='phantomjs-2.1.1-linux-x86_64/bin/phantomjs')
 
 #Laço para percorrer linhas do arquivo de links
 for linha in links:		
@@ -37,7 +37,7 @@ for linha in links:
 	#Tenta acessar link do produto
 	try:		
 		driver.get(link)
-		time.sleep(5)
+		time.sleep(1)
 		response = driver.page_source #recebe conteudo do response
 		produto_html = BeautifulSoup(response, 'lxml')
 	except:
@@ -65,7 +65,7 @@ for linha in links:
 
 			#Acessar link de paginacao		
 			driver.get(comentarioURL)
-			time.sleep(5)
+			time.sleep(1)
 			response = driver.page_source
 			produto_html = BeautifulSoup(response, 'lxml')			
 

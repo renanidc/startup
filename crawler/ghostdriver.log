@@ -1,52 +1,310 @@
-[INFO  - 2017-10-21T17:58:44.182Z] GhostDriver - Main - running on port 58093
-[INFO  - 2017-10-21T17:58:45.071Z] Session [7b213c80-b689-11e7-b4a3-db8312c1305f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2017-10-21T17:58:45.071Z] Session [7b213c80-b689-11e7-b4a3-db8312c1305f] - page.customHeaders:  - {}
-[INFO  - 2017-10-21T17:58:45.071Z] Session [7b213c80-b689-11e7-b4a3-db8312c1305f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2017-10-21T17:58:45.071Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7b213c80-b689-11e7-b4a3-db8312c1305f
-[INFO  - 2017-10-21T18:01:21.968Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:01:21.969Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '265b1e50-b689-11e7-a05f-632ace44f1ea', because windowless
-ck:
-  r (http://s.buscape.co[INFO  - 2017-10-21T18:00:02.534Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:05:02.534Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:10:02.534Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:15:02.534Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:20:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:25:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:30:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:35:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:40:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:45:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:50:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T18:55:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:00:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:05:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:10:02.594Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:15:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:20:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:25:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:30:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:35:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:40:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:45:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:50:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:55:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:00:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:05:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:10:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:15:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:20:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:25:02.536Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-essions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:27:31.360Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:32:31.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:37:31.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:42:31.361Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:47:31.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:52:31.362Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T19:57:31.363Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:02:31.374Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:07:31.363Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:12:31.363Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:17:31.363Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:22:31.364Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-[INFO  - 2017-10-21T20:27:31.364Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-13T03:17:42.996Z] GhostDriver - Main - running on port 59424
+[INFO  - 2017-11-13T03:17:43.878Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-13T03:17:43.878Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.customHeaders:  - {}
+[INFO  - 2017-11-13T03:17:43.878Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-13T03:17:43.879Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 36e7b400-c821-11e7-962c-9d1793afe15f
+[INFO  - 2017-11-13T03:18:52.765Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-13T03:18:52.766Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'ad9b3c30-c820-11e7-a0dd-ddd4edd67e2a', because windowless
+e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://assets.adobedtm.com/296b83a81627fd662c5aecf8[INFO  - 2017-11-13T03:22:10.766Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ - 2017-11-13T03:17:50.560Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'window.top.document.dispatchEvent')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:17:50.561Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://assets.adobedtm.com/296b83a81627fd662c5aecf8289129e20324f9b7/s-code-contents-1c810d0a8a6777900f305b21d237ef98ad90a7c6.js:444)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:18:16.054Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:18:16.055Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:27.536Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:27.536Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:28.941Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.document.documentElement')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:28.941Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  viewPortHeight (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  checkvisible (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  j (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  trackViewability (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  load_ad (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+  (anonymous function) (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+  onload (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:28.959Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.document.documentElement')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:28.959Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  viewPortHeight (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  checkvisible (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  j (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  trackViewability (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  load_ad (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+  (anonymous function) (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+  onload (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:56.949Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: cmSetupNormalization
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:56.949Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:211)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.532Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.532Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/wcsstore/FastShop/Criacao/frete-comprainteligente/lightbox.min.js:8)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.532Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.532Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:689)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.535Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.535Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:791)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.535Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.536Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:810)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.537Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.537Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:858)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.538Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.538Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:867)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.772Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: jQuery
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.772Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:1461)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.938Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:19:58.938Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:3653)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:01.932Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: NameSpace
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:01.932Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  (anonymous function) (https://tm.jsuol.com.br/modules/uol-dna.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:24.872Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: $
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:24.873Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/wcsstore/FastShop/img/pages/2017/07/galaxy-j5-prime/js/isee-j5-main.js:10)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:29.408Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: ReferenceError: Can't find variable: cmCreatePageviewTag
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:29.408Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (https://www.fastshop.com.br/loja/samsung-galaxy-j5-prime-preto-32gb-13mp-sm-g570mzkgzto-fast?utm_term=SGG570MZPTO_PRD&par=bpvitrine&cm_mmc=aff_lomadee-_-lomadee-_-lomadee-_-lomadee&partner=parceiro-lomadee&utm_campaign=lomadee&utm_medium=aff&utm_content=lomadee&utm_source=aff_lomadee&lmdsid=634635779654-514:6308)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:33.025Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'l.width')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:33.025Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  (anonymous function) (undefined:1)
+  i (:1)
+  u (:1)
+  createFrame (:1)
+  createFrame (:1)
+  render (:1)
+  (anonymous function) (:1)
+  trigger (:1)
+  s (:1)
+  i (:1)
+  (anonymous function) (:1)
+  apply (:0)
+  p (:1)
+  fireWith (:1)
+  S (:1)
+  onreadystatechange (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:33.373Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'l.width')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:33.374Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  (anonymous function) (undefined:1)
+  i (:1)
+  u (:1)
+  createFrame (:1)
+  createFrame (:1)
+  render (:1)
+  render (:1)
+  (anonymous function) (:1)
+  trigger (:1)
+  s (:1)
+  i (:1)
+  (anonymous function) (:1)
+  apply (:0)
+  p (:1)
+  fireWith (:1)
+  S (:1)
+  onreadystatechange (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:33.725Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'l.width')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:33.725Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  (anonymous function) (undefined:1)
+  i (:1)
+  u (:1)
+  createFrame (:1)
+  createFrame (:1)
+  render (:1)
+  r (:1)
+  trigger (:1)
+  s (:1)
+  i (:1)
+  (anonymous function) (:1)
+  apply (:0)
+  p (:1)
+  fireWith (:1)
+  S (:1)
+  onreadystatechange (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:54.554Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating '_top[_0x1f98[17]][_0x1f98[2]][_0x1f98[1]]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:54.554Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (http://app.shoptarget.com.br/js/tracking.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:55.749Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'google_tag_manager["GTM-NHCZSD"].macro('gtm8')[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:20:55.750Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (http://www.fnac.com.br/samsung-galaxy-s8-smg955fzkkzto-tela-62-128gb-12mp-preto/p?idsku=8031169&_t=1509886990066&utm_campaign=oferta&utm_medium=cpa&utm_source=lomadee&lmdsid=503035779654-514:1)
+  insertBefore (:0)
+  (anonymous function) (http://www.googletagmanager.com/gtm.js?id=GTM-NHCZSD:36)
+  (anonymous function) (http://www.googletagmanager.com/gtm.js?id=GTM-NHCZSD:37)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:21:00.571Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'google_tag_manager["GTM-NHCZSD"].macro('gtm28')[0]')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:21:00.571Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  global code (http://www.fnac.com.br/samsung-galaxy-s8-smg955fzkkzto-tela-62-128gb-12mp-preto/p?idsku=8031169&_t=1509886990066&utm_campaign=oferta&utm_medium=cpa&utm_source=lomadee&lmdsid=503035779654-514:1)
+  insertBefore (:0)
+  (anonymous function) (http://www.googletagmanager.com/gtm.js?id=GTM-NHCZSD:36)
+  (anonymous function) (http://www.googletagmanager.com/gtm.js?id=GTM-NHCZSD:37)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:21:20.033Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:21:20.033Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:22:14.475Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:22:14.476Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:22:29.534Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:22:29.535Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-11-13T03:22:42.995Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-11-13T03:22:48.432Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:22:48.432Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:23:00.394Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:23:00.394Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:24:39.107Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:24:39.107Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:24:47.456Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.document.documentElement')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:24:47.456Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  viewPortHeight (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  checkvisible (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  j (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  trackViewability (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  load_ad (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+  (anonymous function) (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+  onload (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:24:47.486Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.document.documentElement')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:24:47.487Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  viewPortHeight (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  checkvisible (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  j (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  trackViewability (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:1)
+  load_ad (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+  (anonymous function) (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+  onload (https://rce.reamp.com.br/essentials/3.0/rmp_core_3.0.min.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:24:48.061Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - msg: Facebook Pixel Error: Error: Duplicate Pixel ID: 603677573047462
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-13T03:24:48.062Z] Session [36e7b400-c821-11e7-962c-9d1793afe15f] - page.onError - stack:
+  q (https://connect.facebook.net/en_US/fbevents.js:25)
+
+  phantomjs://platform/console++.js:263 in error
